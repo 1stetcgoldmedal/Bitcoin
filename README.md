@@ -2,7 +2,7 @@
 
 Query simple information about bitcoin wallet via Blockchain
 
-##Features:
+## Features:
 
 - Check Total Received BTC for wallet (getreceivedbyaddress)
 - Check Remaining BTC for wallet (addressbalance)
@@ -12,6 +12,6 @@ Query simple information about bitcoin wallet via Blockchain
 If you select KRW and enter 1000
 You can see how much BTC you can buy with 1000KRW.
 
-##To do :
+## To do :
 - Confirmation check and correction for wallet
 - create a new wallet address
