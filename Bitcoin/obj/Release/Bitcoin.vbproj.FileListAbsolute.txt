@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Bitcoin.exe
+C:\Users\Admin\Desktop\Projects\Bitcoin\Bitcoin\obj\Release\Bitcoin.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\Bitcoin\Bitcoin\obj\Release\Bitcoin.Main.resources
+C:\Users\Admin\Desktop\Projects\Bitcoin\Bitcoin\obj\Release\Bitcoin.Resources.resources
+C:\Users\Admin\Desktop\Projects\Bitcoin\Bitcoin\obj\Release\Bitcoin.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Projects\Bitcoin\Bitcoin\obj\Release\Bitcoin.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\Bitcoin\Bitcoin\obj\Release\Bitcoin.exe
